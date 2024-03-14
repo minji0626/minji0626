@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     
-![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome+to+MinJi's+GitHub!&width=1000&height=100&fontSize=40&color=auto)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome+to+MinJi's+GitHub!&width=1000&height=100&fontSize=38&color=auto&fontColor=Black)
 </div>
 <div align="center">
     
