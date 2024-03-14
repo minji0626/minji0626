@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji0626&count_bg=%23908E92&title_bg=%23D3BDE7&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![MinJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji0626&theme=rose&show_icons=true)
+![MinJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji0626&theme=buefy&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minji0626&layout=compact)
 
