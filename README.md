@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ready For Change!
 
 <!--
 **minji0626/minji0626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-# MinJi
 
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome+to+MinJi's+GitHub!&width=1000&height=100&fontSize=40&color=auto)
 
