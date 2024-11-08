@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 <div align="center">
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminji0626&count_bg=%23908E92&title_bg=%23D3BDE7&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<--
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=minji0626&theme=react-light&bg_color=white&hide_border=true&line=58A6FF&color=58A6FF"width=94%/>
 </a> 
+-->
 </div>
 
 <br>
